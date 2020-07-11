@@ -10,7 +10,13 @@
 | contains the "web" middleware group. Now create something great!
 |
 */
+// LP獲得用
+Route::get('matome', function () {
+    return view('fb.check'); //確認用LP
+    // return view('fb.uraLive'); //獲得LP(1)
+});
 
-Route::get('/', function () {
-    return view('welcome');
+// LP確認用
+Route::get('cccheck', function () {
+    return view('fb.uraLive'); //獲得LP(1)
 });
