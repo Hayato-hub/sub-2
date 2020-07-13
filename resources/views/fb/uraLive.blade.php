@@ -16,8 +16,10 @@
         <div class="big-body">
             <div class="body-top">
                 <h1><span>承認欲求の塊！割とガチでえぐいw<br>裏垢女子がこぞって脱いでオナ電・生オナ配信してるwww</span></h1>
-                <a href="https://preaf.jp/pa.do?s=v04031&o=46959&guid=ON" target="_blank"><img src="{{ asset('image/uraLive_1.JPG') }}"></a>
-                <a href="https://preaf.jp/pa.do?s=v04031&o=46959&guid=ON" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 公式AppStoreはコチラ <i class="fas fa-external-link-alt"></i></a>
+                <!--<a href="https://preaf.jp/pa.do?s=v04031&o=46959&guid=ON" target="_blank"><img src="{{ asset('image/uraLive_1.JPG') }}"></a>-->
+                <a href="https://preaf.jp/pa.do?s=v04031&o=45765&guid=ON" target="_blank"><img src="{{ asset('image/uraLive_1.JPG') }}"></a>
+                <!--<a href="https://preaf.jp/pa.do?s=v04031&o=46959&guid=ON" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 公式AppStoreはコチラ <i class="fas fa-external-link-alt"></i></a>-->
+                <a href="https://preaf.jp/pa.do?s=v04031&o=45765&guid=ON" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 公式AppStoreはコチラ <i class="fas fa-external-link-alt"></i></a>
                 <p>生配信のスクショ! IDで検索すれば過去配信閲覧できるでー</p>
             </div>
             
@@ -56,9 +58,11 @@
                     <br>
                     <br>
                     <h3>リンク切れになってたらスマン！！まだリンク生きてたら削除前に急げよ！！！</h3>
-                    <a href="https://preaf.jp/pa.do?s=v04031&o=46959&guid=ON" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 公式AppStoreはコチラ <i class="fas fa-external-link-alt"></i></a>
+                    <!--<a href="https://preaf.jp/pa.do?s=v04031&o=46959&guid=ON" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 公式AppStoreはコチラ <i class="fas fa-external-link-alt"></i></a>-->
+                    <a href="https://preaf.jp/pa.do?s=v04031&o=45765&guid=ON" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 公式AppStoreはコチラ <i class="fas fa-external-link-alt"></i></a>
                     <!--<a href="https://preaf.jp/pa.do?s=v04031&o=46959&guid=ON" target="_blank"><p><span>https://apps.apple.com/jp/app/free/<br>tiktok-ura/goody</p></span></p></a>-->
-                    <img src="{{ asset('image/uraLive_7.jpg') }}">
+                    <!--<img src="{{ asset('image/uraLive_7.jpg') }}">-->
+                    <img src="{{ asset('image/talk_apppic.jpg') }}">
                     <p>↑これな！</p>
                     <br>
                     <p>最後にちょっと宣伝！Twitterで裏系・エロ情報発信してこうと思うから、気になるやつはフォローしてやー！@adult_info_</p>
@@ -68,14 +72,14 @@
                 </div>
             </div>
             
-            <div class="ad">
-                <h1><span>【PR】時給1000円以上! アダルトゲームのテスター募集!</span></h1>
+            <!--<div class="ad">-->
+            <!--    <h1><span>【PR】時給1000円以上! アダルトゲームのテスター募集!</span></h1>-->
                 <!--<a href="https://a-trade.jp/redirect/nijikano?media=G16531" target="_blank"><img src="https://trading-ad.net/a-trade/banner/niji_600x500_001.jpg"></a>-->
-                <a href="https://a-trade.jp/redirect/anahiro?media=G16531" target="_blank"><img src="https://trading-ad.net/a-trade/banner/ana_600x500_009.jpg" alt=""></a>
-                <p><span><i class="far fa-hand-point-up"></i> <i class="far fa-hand-point-up"></i> <i class="far fa-hand-point-up"></i></span></p>
-                <p><span>まず普通にユーザー登録して詳細を確認せよ！</span></p>
-            </div>
-            <br>
+            <!--    <a href="https://a-trade.jp/redirect/anahiro?media=G16531" target="_blank"><img src="https://trading-ad.net/a-trade/banner/ana_600x500_009.jpg" alt=""></a>-->
+            <!--    <p><span><i class="far fa-hand-point-up"></i> <i class="far fa-hand-point-up"></i> <i class="far fa-hand-point-up"></i></span></p>-->
+            <!--    <p><span>まず普通にユーザー登録して詳細を確認せよ！</span></p>-->
+            <!--</div>-->
+            <!--<br>-->
         </div>
         <footer>
             <p>激ヤバ話題まとめ@5ch</p>
