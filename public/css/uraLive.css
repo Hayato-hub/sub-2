@@ -8,6 +8,15 @@ img {
     width: 80%;
 }
 
+.wide {
+    width: 100%;
+}
+
+.manga-header {
+    background-color: white;
+    color: red;
+}
+
 /*ボタン*/
 .btn-square-shadow {
   display: inline-block;

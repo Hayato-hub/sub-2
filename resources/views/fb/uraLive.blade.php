@@ -15,6 +15,12 @@
         
         <div class="big-body">
             <div class="body-top">
+                <img src="{{ asset('image/erManga_1.JPG') }}" class="wide">
+                <img src="{{ asset('image/erManga_2.JPG') }}" class="wide">
+                <img src="{{ asset('image/erManga_3.jpg') }}" class="wide">
+                <img src="{{ asset('image/erManga_4.jpg') }}" class="wide">
+                <img src="{{ asset('image/erManga_5.jpg') }}" class="wide">
+                <br>
                 <h1><span>承認欲求の塊！割とガチでえぐいw<br>裏垢女子がこぞって脱いでオナ電・生オナ配信してるwww</span></h1>
                 <!--<a href="https://preaf.jp/pa.do?s=v04031&o=46959&guid=ON" target="_blank"><img src="{{ asset('image/uraLive_1.JPG') }}"></a>-->
                 <a href="https://preaf.jp/pa.do?s=v04031&o=45765&guid=ON" target="_blank"><img src="{{ asset('image/uraLive_1.JPG') }}"></a>
