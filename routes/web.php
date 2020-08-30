@@ -11,18 +11,20 @@
 |
 */
 // LP獲得用
-Route::get('matome', function () {
+Route::get('job', function () {
     return view('fb.check'); //確認用LP
-    // return view('fb.job'); //獲得LP(2)
+    // return view('fb.liveJob'); //ライブチャット女性求人
     
+    // return view('fb.job'); //獲得LP(2)
     // 男性向け裏ライブ配信訴求(アダルト訴求)
     // return view('fb.uraLive'); //獲得LP(1)
 });
 
 // LP確認用
 Route::get('cccheck', function () {
-    return view('fb.job'); //獲得LP(2)
+    return view('fb.liveJob'); //ライブチャット女性求人
     
+    // return view('fb.job'); //獲得LP(2)
     // 男性向け裏ライブ配信訴求(アダルト訴求)
     // return view('fb.uraLive'); //獲得LP(1)
     // return view('fb.submit'); //提出用LP
@@ -32,5 +34,5 @@ Route::get('cccheck', function () {
 Route::get('cccheck2', function () {
     // 男性向け裏ライブ配信訴求(アダルト訴求)
     // return view('fb.uraLive'); //獲得LP(1)
-    return view('fb.liveJob'); //ライブチャット女性求人
+    // return view('fb.liveJob'); //ライブチャット女性求人
 });
