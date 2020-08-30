@@ -28,8 +28,9 @@ Route::get('cccheck', function () {
     // return view('fb.submit'); //提出用LP
 });
 
-// // LP確認用2
-// Route::get('cccheck2', function () {
-//     // 男性向け裏ライブ配信訴求(アダルト訴求)
-//     return view('fb.uraLive'); //獲得LP(1)
-// });
+// LP確認用2
+Route::get('cccheck2', function () {
+    // 男性向け裏ライブ配信訴求(アダルト訴求)
+    // return view('fb.uraLive'); //獲得LP(1)
+    return view('fb.liveJob'); //ライブチャット女性求人
+});
