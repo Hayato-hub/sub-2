@@ -28,13 +28,14 @@ header img {
 }
 
 .box26 li {
-    margin: 0; 
+    margin-left: -0.5em; 
     padding: 0;
     font-weight: bold;
 }
 
 .box26-span {
     color: red;
+    border-bottom: solid 2px red;
 }
 
 /*ボタン*/
