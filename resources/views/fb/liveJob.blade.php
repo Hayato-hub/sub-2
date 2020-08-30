@@ -23,5 +23,23 @@
                 <a href="#" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 公式ページはコチラ <i class="fas fa-external-link-alt"></i></a>
             </div>
         </header>
+        <div class="result">
+            <h3>33歳女性が50万円!?</h3>
+            <img src="{{ asset('image/lp_instagram_33.jpg') }}">
+            <div class="box26">
+                <span class="box-title">POINT <i class="far fa-hand-point-up"></i></span>
+                <p>本業は都内勤務の会社員。会社公認の副業として仕事の合間、就寝前・休日をうまく活用し平均月90時間勤務。</p>
+                <p>平均月収25万円、平均仕事時間90時間とすると、25万円÷90時間で<span class="box26-span">『平均時給2777円』</span>と高い収益性！</p>
+                <p>最高収益だと50万円÷90時間で驚異の<span class="box26-span">『時給5000円超え』</span>を記録。</p></p>
+            </div>
+        </div>
+        
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
     </body>
 </html>
