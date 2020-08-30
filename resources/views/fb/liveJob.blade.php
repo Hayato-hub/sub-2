@@ -20,7 +20,7 @@
                 </ul>
             </div>
             <div class="button">
-                <a href="#" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 公式ページはコチラ <i class="fas fa-external-link-alt"></i></a>
+                <a href="https://a-trade.jp/redirect/moa?media=G16531" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 公式ページはコチラ <i class="fas fa-external-link-alt"></i></a>
             </div>
         </header>
         <div class="result">
@@ -43,10 +43,18 @@
                 <p>最高収益だと18万円÷40時間で<span class="box26-span">『時給4500円』</span>を記録。</p></p>
             </div>
         </div>
+        <div class="pay">
+            <h3>嬉しい『即日払い』対応</h3>
+            <img src="{{ asset('image/lp_instagram_pay.jpg') }}">
+            <div class="box26">
+                <span class="box-title">POINT <i class="far fa-hand-point-up"></i></span>
+                <p>金欠に嬉しい即日払いに対応しているので、<span class="box26-span">『必要な時に必要な分だけ働く』</span>といった事も可能！</p>
+            </div>
+        </div>
         <div class="box30">
             <div class="box-title">まとめ <i class="fas fa-hand-point-up"></i></div>
             <p><span class="box30-span">従来のバイトの2倍以上の時給</span>、平均時給2000円以上!!<br>最高時給4000円・5000円以上も可能 <i class="far fa-hand-point-up"></i></p>
-            <p>好きな時間に働けるから、<span class="box30-span">プライベート重視の稼ぎ方！</span></p>
+            <p>好きな時間に働け・報酬を受け取れるから、<span class="box30-span">プライベート重視の稼ぎ方！</span></p>
         </div>
         <div class="manga">
             <img src="{{ asset('image/jobManga_1.png') }}">
@@ -62,23 +70,59 @@
             </div>
         </div>
         <div class="relieve">
-            <h3>累計利用者『120万人』を突破！</h3>
-            <h3>初心者歓迎！24時間サポート</h3>
-            <img src="{{ asset('image/lp_instagram_support.PNG') }}">
+            <h3>初心者歓迎!! 24時間サポート</h3>
+            <img src="{{ asset('image/lp_instagram_cut_support_new.png') }}">
             <div class="box26">
                 <span class="box-title">POINT <i class="far fa-hand-point-up"></i></span>
-                <p>仕事内容はズバリ<span class="box26-span">「悩み相談にのる、ユーザーのお話・チャット相手」</span>！LINEやSNSのDMなど、普段友達同士でやりとりしてる感じでOK！</p>
-                <p><span class="box26-span">匿名利用OK・顔出ししないので身バレ心配無用</span>。また、お仕事は専用アプリを通じて行うので個人情報流出などはなく、周りに隠れてコッソリ稼ぐ事が出来ます <i class="far fa-hand-point-up"></i></p>
+                <p>2020/4月には<span class="box26-span">累計利用者が120万人を突破</span>！文字通り業界最大手のサービスとなっています！</p>
+                <p>初心者に嬉しい24時間サポートもあり、<span class="box26-span">サポーターがあなたの気になる疑問や問題を解決</span>してくれるのも人気なポイント <i class="far fa-hand-point-up"></i></p>
             </div>
         </div>
-        
-        
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
+        <div class="compare">
+            <h3>従来のバイトと比較すると...</h3>
+            <img src="{{ asset('image/lp_instagram_compare_text.jpg') }}">
+            <div class="box26">
+                <span class="box-title">POINT <i class="far fa-hand-point-up"></i></span>
+                <p>一般的な接客バイトと比べ2~5倍以上の高い時給は勿論、<span class="box26-span">在宅だから精神面でも楽にお仕事</span>可能！</p>
+                <p>他にも、『日払い対応』や『服装・髪型自由』、<span class="box26-span">『空いた時間に働けるスキマバイト』</span>といった従来のバイトにはない特徴も魅力。</p>
+            </div>
+        </div>
+        <div class="button">
+            <img src="{{ asset('image/lp_instagram_job.png') }}">
+            <a href="#" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 公式ページはコチラ <i class="fas fa-external-link-alt"></i></a>
+            <p>※リンク切れの場合、募集多数の為一時的に募集停止となっている場合がございます。</p>
+        </div>
+        <div class="use">
+            <h3>始め方をCHECK</h3>
+            <div class="box26">
+                <span class="box-title">お仕事開始まで <i class="far fa-hand-point-up"></i></span>
+                <ol>
+                    <li>お仕事専用アプリを『ダウンロード』</li>
+                    <li>必要項目を入力し『登録』</li>
+                    <li>運営が登録を確認し『お仕事開始』<i class="far fa-hand-point-up"></i></li>
+                </ol>
+                <p><span class="use-span">簡単3ステップ、最短10分でお仕事開始！</span></p>
+            </div>
+        </div>
+        <div class="button">
+            <a href="https://a-trade.jp/redirect/moa?media=G16531" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 専用アプリはコチラ <i class="fas fa-external-link-alt"></i></a>
+        </div>
+        <div class="movie">
+            <h3>動画で改めてCHECK</h3>
+            <iframe width="100%" height="250" src="https://www.youtube.com/embed/WAYWXdeRGxg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="close">
+            <h3>その他不明点はサポートへ</h3>
+            <div class="box26">
+                <span class="box-title">POINT <i class="far fa-hand-point-up"></i></span>
+                <p><span class="box26-span">期間限定募集の為、いつ募集停止するか...。</span>一度登録しておくと、すぐ始めなくても好きなタイミングで始められるようになるので、まずは登録するだけがおすすめ！</p>
+                <p>また登録すればサポートも受けられるので、不明点があればサポートへ聞こう！</p>
+            </div>
+        </div>
+        <div class="button">
+            <img src="{{ asset('image/lp_instagram_job.png') }}">
+            <a href="https://a-trade.jp/redirect/moa?media=G16531" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 公式ページはコチラ <i class="fas fa-external-link-alt"></i></a>
+            <p>※リンク切れの場合、募集多数の為一時的に募集停止となっている場合がございます。</p>
+        </div>
     </body>
 </html>
