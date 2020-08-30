@@ -6,26 +6,36 @@ header img {
     width: 100%;
 }
 
-header h5 {
-  color: white;/*文字色*/
-  padding: 0.5em;/*文字周りの余白*/
-  display: inline-block;/*おまじない*/
-  line-height: 1.3;/*行高*/
-  background: black;/*背景色*/
-  vertical-align: middle;
-  border-radius: 25px 0px 0px 25px;/*左側の角を丸く*/
-  margin-top: -0.3em;
+.box26 {
+    position: relative;
+    margin: 0.7em 0;
+    padding: 0.5em 1em;
+    border: solid 3px #6600CC;
+    border-radius: 8px;
 }
 
-header h5:before {
-  content: '●';
-  color: white;
-  margin-right: 8px;
+.box26 .box-title {
+    position: absolute;
+    display: inline-block;
+    top: -13px;
+    left: 10px;
+    padding: 0 9px;
+    line-height: 1;
+    font-size: 19px;
+    background: #FFF;
+    color: #6600CC;
+    font-weight: bold;
 }
 
-.headline span {
-    color: #FFCC00;
-    font-size: 1.8em;
+.box26 li {
+    margin: 0; 
+    padding: 0;
+    font-weight: bold;
+}
+
+.box26-span {
+    color: red;
+    font-size: 1.3em;
 }
 
 /*ボタン*/
