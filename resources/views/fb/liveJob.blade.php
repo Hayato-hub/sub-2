@@ -14,7 +14,7 @@
             <div class="box26">
                 <span class="box-title">POINT <i class="far fa-hand-point-up"></i></span>
                 <ul>
-                    <li>最大<span class="box26-span">『時給3000~4000円』</span>以上</li>
+                    <li>最大<span class="box26-span">『時給4000~5000円』</span>以上</li>
                     <li>面倒な通勤<i class="far fa-times-circle"></i> <span class="box26-span">『在宅ワーク』</span></li>
                     <li><span class="box26-span">『好きな時に働ける』</span>スキマバイト</li>
                 </ul>
@@ -33,6 +33,45 @@
                 <p>最高収益だと50万円÷90時間で驚異の<span class="box26-span">『時給5000円超え』</span>を記録。</p></p>
             </div>
         </div>
+        <div class="result2">
+            <h3>学生でもスキマ時間を有効活用</h3>
+            <img src="{{ asset('image/lp_instagram_stu.jpg') }}">
+            <div class="box26">
+                <span class="box-title">POINT <i class="far fa-hand-point-up"></i></span>
+                <p>神戸に住む現役大学生。就活・授業の合間、就寝前・休日をうまく活用し平均月40時間勤務。<span class="box26-span">1日あたり1時間前後</span>。</p>
+                <p>平均月収10万円、平均仕事時間40時間とすると、10万円÷40時間で<span class="box26-span">『平均時給2500円』</span>と従来のバイトの2倍以上の高い収益性！</p>
+                <p>最高収益だと18万円÷40時間で<span class="box26-span">『時給4500円』</span>を記録。</p></p>
+            </div>
+        </div>
+        <div class="box30">
+            <div class="box-title">まとめ <i class="fas fa-hand-point-up"></i></div>
+            <p><span class="box30-span">従来のバイトの2倍以上の時給</span>、平均時給2000円以上!!<br>最高時給4000円・5000円以上も可能 <i class="far fa-hand-point-up"></i></p>
+            <p>好きな時間に働けるから、<span class="box30-span">プライベート重視の稼ぎ方！</span></p>
+        </div>
+        <div class="manga">
+            <img src="{{ asset('image/jobManga_1.png') }}">
+            <img src="{{ asset('image/jobManga_2.png') }}">
+        </div>
+        <div class="job">
+            <h3>仕事内容は『お話するだけ!?』</h3>
+            <img src="{{ asset('image/lp_instagram_system.jpg') }}">
+            <div class="box26">
+                <span class="box-title">POINT <i class="far fa-hand-point-up"></i></span>
+                <p>仕事内容はズバリ<span class="box26-span">「悩み相談にのる、ユーザーのお話・チャット相手」</span>！LINEやSNSのDMなど、普段友達同士でやりとりしてる感じでOK！</p>
+                <p><span class="box26-span">匿名利用OK・顔出ししないので身バレ心配無用</span>。また、お仕事は専用アプリを通じて行うので個人情報流出などはなく、周りに隠れてコッソリ稼ぐ事が出来ます <i class="far fa-hand-point-up"></i></p>
+            </div>
+        </div>
+        <div class="relieve">
+            <h3>累計利用者『120万人』を突破！</h3>
+            <h3>初心者歓迎！24時間サポート</h3>
+            <img src="{{ asset('image/lp_instagram_support.PNG') }}">
+            <div class="box26">
+                <span class="box-title">POINT <i class="far fa-hand-point-up"></i></span>
+                <p>仕事内容はズバリ<span class="box26-span">「悩み相談にのる、ユーザーのお話・チャット相手」</span>！LINEやSNSのDMなど、普段友達同士でやりとりしてる感じでOK！</p>
+                <p><span class="box26-span">匿名利用OK・顔出ししないので身バレ心配無用</span>。また、お仕事は専用アプリを通じて行うので個人情報流出などはなく、周りに隠れてコッソリ稼ぐ事が出来ます <i class="far fa-hand-point-up"></i></p>
+            </div>
+        </div>
+        
         
         <br>
         <br>

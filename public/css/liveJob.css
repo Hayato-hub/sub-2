@@ -81,3 +81,109 @@ header img {
 .result img {
     width: 100%;
 }
+
+.result2 {
+    margin-top: -1em;
+}
+
+.result2 h3 {
+  color: white;/*文字色*/
+  padding: 0.5em;/*文字周りの余白*/
+  display: inline-block;/*おまじない*/
+  line-height: 1.3;/*行高*/
+  background: #6600CC;/*背景色*/
+  vertical-align: middle;
+  border-radius: 25px 0px 0px 25px;/*左側の角を丸く*/
+  margin-top: 1.5em;
+  margin-bottom: -0.1em;
+}
+
+.result2 h3:before {
+  content: '●';
+  color: white;
+  margin-right: 8px;
+}
+
+.result2 img {
+    width: 100%;
+}
+
+.box30 {
+    margin: 1.5em 0;
+    background: #f1f1f1;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.22);
+}
+
+.box30 .box-title {
+    font-size: 1.2em;
+    background: #5fc2f5;
+    padding: 4px;
+    text-align: center;
+    color: #FFF;
+    font-weight: bold;
+    letter-spacing: 0.05em;
+}
+
+.box30 p {
+    padding: 15px 20px;
+    margin: 0;
+    font-weight: bold;
+}
+
+.box30-span {
+    color: #5fc2f5;
+    border-bottom: solid 2px #5fc2f5;
+}
+
+.manga img {
+    width: 100%;
+}
+
+.job h3 {
+  color: white;/*文字色*/
+  padding: 0.5em;/*文字周りの余白*/
+  display: inline-block;/*おまじない*/
+  line-height: 1.3;/*行高*/
+  background: #6600CC;/*背景色*/
+  vertical-align: middle;
+  border-radius: 25px 0px 0px 25px;/*左側の角を丸く*/
+  margin-top: -0.1em;
+  margin-bottom: -0.1em;
+}
+
+.job h3:before {
+  content: '●';
+  color: white;
+  margin-right: 8px;
+}
+
+.job img {
+    width: 100%;
+}
+
+.relieve {
+    margin-top: 1.5em;
+}
+
+.relieve h3 {
+  color: white;/*文字色*/
+  padding: 0.5em;/*文字周りの余白*/
+  display: inline-block;/*おまじない*/
+  line-height: 1.3;/*行高*/
+  background: #6600CC;/*背景色*/
+  vertical-align: middle;
+  border-radius: 25px 0px 0px 25px;/*左側の角を丸く*/
+  margin-top: -0.1em;
+  margin-bottom: -0.1em;
+}
+
+.relieve h3:before {
+  content: '●';
+  color: white;
+  margin-right: 8px;
+}
+
+.relieve img {
+    width: 100%;
+    margin-top: -2em;
+}
