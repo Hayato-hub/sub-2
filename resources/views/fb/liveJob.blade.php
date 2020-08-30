@@ -89,7 +89,7 @@
         </div>
         <div class="button">
             <img src="{{ asset('image/lp_instagram_job.png') }}">
-            <a href="#" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 公式ページはコチラ <i class="fas fa-external-link-alt"></i></a>
+            <a href="https://a-trade.jp/redirect/moa?media=G16531" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 公式ページはコチラ <i class="fas fa-external-link-alt"></i></a>
             <p>※リンク切れの場合、募集多数の為一時的に募集停止となっている場合がございます。</p>
         </div>
         <div class="use">
@@ -109,13 +109,13 @@
         </div>
         <div class="movie">
             <h3>動画で改めてCHECK</h3>
-            <iframe width="100%" height="250" src="https://www.youtube.com/embed/WAYWXdeRGxg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <p>※現在の環境は動画再生に対応していません。<br>※公式ページ内にてご確認下さい。</p>
         </div>
         <div class="close">
             <h3>その他不明点はサポートへ</h3>
             <div class="box26">
                 <span class="box-title">POINT <i class="far fa-hand-point-up"></i></span>
-                <p><span class="box26-span">期間限定募集の為、いつ募集停止するか...。</span>一度登録しておくと、すぐ始めなくても好きなタイミングで始められるようになるので、まずは登録するだけがおすすめ！</p>
+                <p><span class="box26-span">期間限定募集の為、いつ募集停止するか...。</span>一度登録しておくと、<span class="box26-span">すぐ始めなくても好きなタイミングで始められるようになる</span>ので、まずは登録するだけがおすすめ！</p>
                 <p>また登録すればサポートも受けられるので、不明点があればサポートへ聞こう！</p>
             </div>
         </div>

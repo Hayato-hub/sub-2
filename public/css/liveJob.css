@@ -286,8 +286,9 @@ header img {
   margin-right: 8px;
 }
 
-.movie iframe {
-    margin-top: -0.5em;
+.movie p {
+    font-weight: bold;
+    padding-left: 0.5em;
 }
 
 .close h3 {
