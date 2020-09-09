@@ -13,8 +13,9 @@
 // LP獲得用
 Route::get('job', function () {
     return view('fb.check'); //確認用LP
-    // return view('fb.liveJob'); //ライブチャット女性求人
+    // return view('fb.money'); //女性稼げる訴求
     
+    // return view('fb.liveJob'); //ライブチャット女性求人
     // return view('fb.job'); //獲得LP(2)
     // 男性向け裏ライブ配信訴求(アダルト訴求)
     // return view('fb.uraLive'); //獲得LP(1)
@@ -22,8 +23,9 @@ Route::get('job', function () {
 
 // LP確認用
 Route::get('cccheck', function () {
-    return view('fb.liveJob'); //ライブチャット女性求人
+    return view('fb.money'); //女性稼げる訴求
     
+    // return view('fb.liveJob'); //ライブチャット女性求人
     // return view('fb.job'); //獲得LP(2)
     // 男性向け裏ライブ配信訴求(アダルト訴求)
     // return view('fb.uraLive'); //獲得LP(1)
