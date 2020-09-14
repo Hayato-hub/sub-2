@@ -36,26 +36,30 @@
                 <div class="body-main-3">
                     <h3>時給3,000円超え..!？<br>自宅で出来るお小遣い稼ぎ!</h3>
                     <p>今有名雑誌にも掲載されるなど、巷で話題になりつつある在宅スキマバイト。<br>お手持ちのスマホを使って、<span class="red">空いた1時間からお仕事可能</span>なのが魅力。また、しっかり報酬が高いのも特徴。</p>
-                    <!--<br>-->
+                    <br>
                     <h3>お仕事はおしゃべりするだけ..!?<br>悩めるユーザーの相談に乗ろう!</h3>
                     <p>お話は専用アプリを通じて行い、<span class="red">LINE感覚で友達と話す感じでOK</span>。<br>ユーザーの悩みに乗ったり、気になる話題やあなたの話を聞いてもらおう!</p>
-                    <!--<br>-->
-                    <h3>報酬は嬉しい即日払い！</h3>
-                    <img src="{{ asset('image/gf_2.jpg') }}"></img>
                     <br>
-                    <!--<br>-->
+                    <h3>報酬は嬉しい即日払い！</h3>
+                    <img src="{{ asset('image/gf_2.jpg') }}" class="wide"></img>
+                    <br>
+                    <br>
                     <h3>激レアバイトと呼ばばれる理由とは..!?<br>応募ユーザーが多過ぎる!</h3>
                     <p>まずなんといってもその好条件が人気の秘密。高時給、在宅ワークは勿論、ファンを見つけ<span class="red">インフルエンサーの足がけ</span>として働く人も多数。</p>
-                    <img src="{{ asset('image/gf_3.jpg') }}"></img>
+                    <img src="{{ asset('image/gf_3.jpg') }}" class="wide"></img>
                     <br>
-                    <!--<br>-->
+                    <br>
                     <h3>只今、期間限定募集中..!?<br>公式ページで詳細をCHECK!</h3>
                     <p>そんな激レア求人が、現在期間限定募集中。応募多数につき<span class="red">途中で募集停止するかもしれない</span>ので、気になる方は公式ページをCHECK。</p>
                     <!--ボタン-->
-                    <a href="https://a-trade.jp/redirect/moa?media=G16531" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> お仕事詳細はコチラ <i class="fas fa-arrow-circle-right"></i></a>
+                    <div class="body-button">
+                        <a href="https://a-trade.jp/redirect/moa?media=G16531" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> お仕事詳細はコチラ <i class="fas fa-arrow-circle-right"></i></a>
+                    </div>
                     <br>
                     <br>
-                    <a href="https://a-trade.jp/redirect/moa?media=G16531" target="_blank"><img src="https://trading-ad.net/a-trade/banner/moa/02/01_640x200.png" class="wide"></a>
+                    <div class="bottom-ad">
+                        <a href="https://a-trade.jp/redirect/moa?media=G16531" target="_blank"><img src="https://trading-ad.net/a-trade/banner/moa/02/01_640x200.png" class="wide"></a>
+                    </div>
                     <br>
                     <br>
                 </div>

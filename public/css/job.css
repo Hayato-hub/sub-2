@@ -45,6 +45,10 @@ header p {
     background-color: white;
 }
 
+.big-body-main .body-button {
+    text-align: center;
+}
+
 /*body-top*/
 .body-top {
     text-align: center;
@@ -140,6 +144,10 @@ header p {
 .ad p {
     color: white;
     font-weight: bold;
+}
+
+.bottom-ad {
+    margin-top: -1.5em;
 }
 
 /*フッター*/
