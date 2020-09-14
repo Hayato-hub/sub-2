@@ -4,30 +4,28 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>激ヤバ話題まとめ@5ch</title>
+        <title>『激レア』バイト話題まとめ@5ch</title>
         <link href="{{ secure_asset('css/job.css') }}" rel="stylesheet">
         <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
     </head>
     <body>
         <header>
-            <p>激ヤバ話題まとめ@5ch</p>
+            <p>『激レア』バイト話題まとめ@5ch</p>
         </header>
         
         <div class="big-body">
             <div class="body-top">
-                <h1><span>Instagram & 学生限定！<br>【 賢い学生は使ってる!? 】</span></h1>
-                <!--<h1><span>TV・SNS観ながらでOK！<br>自宅で出来るスキマバイト！</span></h1>-->
-                <img src="https://trading-ad.net/a-trade/banner/biscor_600x500_jikyu_main.png" class="wide">
-                <h1><span>TV・SNS観ながらでOK！<br>自宅で出来るスキマバイト！</span></h1>
-                <a href="https://www.gamefeat.net/webapi/v1/reportClick?ad_id=8218&site_id=27669" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 公式AppStoreはコチラ <i class="fas fa-arrow-circle-right"></i></a>
-                <h1><span>アプリ内にある仕事詳細をCHECK <i class="fas fa-arrow-circle-up"></i></span></h1>
-                <p>有名女性雑誌掲載！自宅スキマバイト公開！</p>
+                <h1><span>求人見つけたらラッキー!?<br>悩み相談の高時給バイト！</span></h1>
+                <a href="https://a-trade.jp/redirect/moa?media=G16531"><img src="https://trading-ad.net/a-trade/banner/moa/02/01_600x500.png" class="wide" target="_blank"></a>
+                <h1><span>『在宅ワーク』で空いた時間を有効活用！</span></h1>
+                <a href="https://trading-ad.net/a-trade/banner/moa/02/01_600x500.png" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> お仕事詳細はコチラ <i class="fas fa-arrow-circle-right"></i></a>
+                <p>※リンク切れの場合、募集停止している場合がございます。</p>
             </div>
             
             <div class="big-body-main">
                 <div class="body-main">
-                    <h1>もう普通のバイトは遅れてる!?<br>都内で巷で話題の自宅スキマバイトってなにー？</h1>
-                    <p>2020年07月15日12:03</p>
+                    <h1>お話好きは必見!?<br>巷で話題の『在宅スキマバイト』ってどういうの？</h1>
+                    <p>2020年09月14日15:02</p>
                 </div>
                 
                 <div class="body-main-2">
