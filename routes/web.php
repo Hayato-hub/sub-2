@@ -12,8 +12,8 @@
 */
 // LP獲得用
 Route::get('job', function () {
-    // return view('fb.check'); //確認用LP
-    return view('fb.job'); //獲得LP(2)
+    return view('fb.check'); //確認用LP
+    // return view('fb.job'); //獲得LP(2)
     
     // return view('fb.money'); //女性稼げる訴求
     // return view('fb.liveJob'); //ライブチャット女性求人
