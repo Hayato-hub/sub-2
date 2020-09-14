@@ -74,7 +74,7 @@ header p {
 
 .body-main h1 {
     font-size: 1.2em;
-    color: grey;
+    color: #333333;
 }
 
 .body-main p {
@@ -96,8 +96,9 @@ header p {
 }
 
 .body-main-3 h3 {
+    color: #333333;
     font-weight: bold;
-    font-size: 1.5em;
+    font-size: 1.2em;
 }
 
 .body-main-3 p {

@@ -18,7 +18,7 @@
                 <h1><span>求人見つけたらラッキー!?<br>悩み相談の高時給バイト！</span></h1>
                 <a href="https://a-trade.jp/redirect/moa?media=G16531"><img src="https://trading-ad.net/a-trade/banner/moa/02/01_600x500.png" class="wide" target="_blank"></a>
                 <h1><span>『在宅ワーク』で空いた時間を有効活用！</span></h1>
-                <a href="https://trading-ad.net/a-trade/banner/moa/02/01_600x500.png" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> お仕事詳細はコチラ <i class="fas fa-arrow-circle-right"></i></a>
+                <a href="https://a-trade.jp/redirect/moa?media=G16531" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> お仕事詳細はコチラ <i class="fas fa-arrow-circle-right"></i></a>
                 <p>※リンク切れの場合、募集停止している場合がございます。</p>
             </div>
             
@@ -52,7 +52,7 @@
                     <h3>只今、期間限定募集中..!?<br>公式ページで詳細をCHECK!</h3>
                     <p>そんな激レア求人が、現在期間限定募集中。応募多数につき<span class="red">途中で募集停止するかもしれない</span>ので、気になる方は公式ページをCHECK。</p>
                     <!--ボタン-->
-                    <a href="https://trading-ad.net/a-trade/banner/moa/02/01_600x500.png" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> お仕事詳細はコチラ <i class="fas fa-arrow-circle-right"></i></a>
+                    <a href="https://a-trade.jp/redirect/moa?media=G16531" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> お仕事詳細はコチラ <i class="fas fa-arrow-circle-right"></i></a>
                     <br>
                     <br>
                     <a href="https://a-trade.jp/redirect/moa?media=G16531" target="_blank"><img src="https://trading-ad.net/a-trade/banner/moa/02/01_640x200.png" class="wide"></a>
