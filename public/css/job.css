@@ -96,7 +96,8 @@ header p {
 }
 
 .body-main-3 h3 {
-    color: red;
+    font-weight: bold;
+    font-size: 1.5em;
 }
 
 .body-main-3 p {
@@ -111,6 +112,11 @@ header p {
 
 .body-main-3 .line {
     border-bottom: solid 0.05em grey;
+}
+
+.body-main-3 .red {
+    color: red;
+    font-weight: bold;
 }
 
 /*ad*/
